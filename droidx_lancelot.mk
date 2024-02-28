@@ -14,6 +14,10 @@ $(call inherit-product, device/xiaomi/lancelot/device.mk)
 # Inherit some common DroidX-UI stuff.
 $(call inherit-product, vendor/droidx/config/common_full_phone.mk)
 
+# DroidX stuff
+DROIDX_BUILD_TYPE := OFFICIAL
+DROIDX_GAPPS := true
+
 PRODUCT_NAME := droidx_lancelot
 PRODUCT_DEVICE := lancelot
 PRODUCT_MANUFACTURER := Xiaomi

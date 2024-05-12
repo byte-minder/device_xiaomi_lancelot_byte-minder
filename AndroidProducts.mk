@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/droidx_lancelot.mk
 
 COMMON_LUNCH_CHOICES := \
-    droidx_lancelot-user \
-    droidx_lancelot-userdebug \
-    droidx_lancelot-eng
+    droidx_lancelot-ap1a-user \
+    droidx_lancelot-ap1a-userdebug \
+    droidx_lancelot-ap1a-eng

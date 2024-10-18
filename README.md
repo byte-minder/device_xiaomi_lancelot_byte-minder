@@ -1,4 +1,4 @@
-# Device tree for Redmi 9
+# Device tree for Redmi 9/ Redmi 9 Prime
 
 ```
 #
@@ -17,9 +17,9 @@ The Xiaomi Redmi 9 (codenamed _"lancelot"_) is an entry-level smartphone from Xi
 | SoC                     | MediaTek Helio G80 (12nm)                                   |
 | CPU                     | 2 x 2.0 GHz Cortex-A75 & 6 x 1.8 GHz Cortex-A55             |
 | GPU                     | Mali-G52 MC2                                                |
-| Memory                  | 3GB / 4GB / 6GB                                             |
+| Memory                  | 4GB / 6GB                                             |
 | Shipped Android version | 10                                                          |
-| Storage                 | 32GB / 64GB / 128GB                                         |
+| Storage                 | 64GB / 128GB                                         |
 | MicroSD                 | Up to 256 GB                                                |
 | Battery                 | Non-removable Li-Po 5020 mAh                                |
 | Dimensions              | 162.3 x 77.2 x 8.9 mm                                       |
